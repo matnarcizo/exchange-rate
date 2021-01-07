@@ -1,0 +1,23 @@
+{
+  "name": "exchange-rate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "test",
+    "sass": "node-sass --watch scss -o css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matnarcizo/exchange-rate.git"
+  },
+  "author": "matnarcizo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matnarcizo/exchange-rate/issues"
+  },
+  "homepage": "https://github.com/matnarcizo/exchange-rate#readme",
+  "devDependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
